@@ -203,4 +203,4 @@ def handle_appointment():
         return jsonify({'response': "I apologize, but an error occurred while booking your appointment. Please try again or contact our support team for assistance."})
 
 if __name__ == '__main__':
-    app.run(port=5000, debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug=True)

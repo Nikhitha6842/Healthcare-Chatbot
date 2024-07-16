@@ -66,10 +66,19 @@ python chatbot.py
 Contributions to improve HealthCare Chatbot are welcome. Please follow these steps:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Create a new branch 
+```bash
+git checkout -b feature/AmazingFeature
+```
+4. Commit your changes 
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+5. Push to the branch 
+```bash
+git push origin feature/AmazingFeature
+```
+6. Open a Pull Request
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).

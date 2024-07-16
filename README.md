@@ -45,8 +45,9 @@ python -m nltk.downloader punkt stopwords
 ## Usage
 
 1. Start the Flask server:
+```bash
 python chatbot.py
-Copy
+```
 2. Open a web browser and navigate to `http://localhost:5000`
 
 3. Interact with the chatbot by typing your symptoms or health concerns

@@ -21,8 +21,8 @@ HealthCare Chatbot is an AI-powered assistant designed to provide initial medica
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AdesharaBrijesh/HealthCare-Chatbot.git
-cd HealthCare-Chatbot
+git clone https://github.com/Nikhitha6842/Healthcare-Chatbot.git
+cd Healthcare-Chatbot
 ```
 
 2. Set up a virtual environment:
@@ -84,13 +84,9 @@ git push origin feature/AmazingFeature
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
-Brijesh Adeshara - adesharabrijesh8@gmail.com
+Nikhitha - [Your GitHub Profile](https://github.com/Nikhitha6842)
 
-Dharmik Thakkar - thakkardharmik437@gmail.com
-
-Vishwas Chaudhary - vishwaschaudhary21@gnu.ac.in
-
-Project Link: [https://github.com/AdesharaBrijesh/HealthCare-Chatbot](https://github.com/AdesharaBrijesh/HealthCare-Chatbot)
+Project Link: [https://github.com/Nikhitha6842/Healthcare-Chatbot](https://github.com/Nikhitha6842/Healthcare-Chatbot)
 
 ## Acknowledgements
 - [Flask](https://flask.palletsprojects.com/)
